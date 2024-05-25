@@ -1,1 +1,1 @@
-Documentation of building a website for Vista 4/9/2023<br><br>
+Show off our skills by creating a website in HTML, CSS and JS
